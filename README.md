@@ -1,5 +1,14 @@
 # 💫 About Me:
-Computer Science graduate looking for a Junior Developer position.<br><br>
+
+Hello there! 👋 I'm Itamar, a Software Developer with hands-on experience in software development, game development, and building AI-driven solutions.
+
+In the world of game development, I love crafting fun, engaging experiences that bring ideas to life. I've worked with Unity to develop immersive 3D games  and I’m always exploring new tools and frameworks to level up my skills.
+
+My tech stack includes Java, C#, and Python, and I’m comfortable working with Unity, Android development, and databases. 
+
+Whether it's building smart features, solving challenging problems, or collaborating on creative projects, I’m always looking to grow and make meaningful contributions.
+
+Currently looking for a Junior Developer position.<br><br>
 
 
 ## 🌐 Socials:
