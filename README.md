@@ -16,6 +16,7 @@ Currently looking for a Junior Developer position.<br><br>
 
 # Noteable Projects
 - **[RPG 3D Game](https://github.com/GameCourse2024/Treasure-Hunter)**: Led a development team to create a 3D RPG game that won first place in a competition. This project involved designing gameplay mechanics, creating engaging stories, and implementing visuals to improve the player experience.
+- **[**Low and Slow Detection](https://github.com/itamarc101/LowAndSlow)**: Developed a system to detect low and slow DoS attacks on HTTP/2 by analyzing traffic patterns and identifying anomalous client behavior.
 
 
 ---
